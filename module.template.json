@@ -1,0 +1,6 @@
+{
+  "name": "DiscordLinker",
+  "authors": ["devlaq"],
+  "version": "${version}",
+  "mainClass": "com.github.devlaq.arkitect.discordlinker.DiscordLinker"
+}
